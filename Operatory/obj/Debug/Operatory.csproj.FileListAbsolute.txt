@@ -1,0 +1,7 @@
+C:\Users\twige\source\repos\Dzien01\Operatory\bin\Debug\Operatory.exe.config
+C:\Users\twige\source\repos\Dzien01\Operatory\bin\Debug\Operatory.exe
+C:\Users\twige\source\repos\Dzien01\Operatory\bin\Debug\Operatory.pdb
+C:\Users\twige\source\repos\Dzien01\Operatory\obj\Debug\Operatory.csprojAssemblyReference.cache
+C:\Users\twige\source\repos\Dzien01\Operatory\obj\Debug\Operatory.csproj.CoreCompileInputs.cache
+C:\Users\twige\source\repos\Dzien01\Operatory\obj\Debug\Operatory.exe
+C:\Users\twige\source\repos\Dzien01\Operatory\obj\Debug\Operatory.pdb

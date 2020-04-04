@@ -1,0 +1,7 @@
+C:\Users\twige\source\repos\Dzien01\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\twige\source\repos\Dzien01\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\twige\source\repos\Dzien01\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\twige\source\repos\Dzien01\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\twige\source\repos\Dzien01\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\twige\source\repos\Dzien01\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\twige\source\repos\Dzien01\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache

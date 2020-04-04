@@ -1,0 +1,7 @@
+C:\Users\twige\source\repos\Dzien01\Zmienne\bin\Debug\Zmienne.exe.config
+C:\Users\twige\source\repos\Dzien01\Zmienne\bin\Debug\Zmienne.exe
+C:\Users\twige\source\repos\Dzien01\Zmienne\bin\Debug\Zmienne.pdb
+C:\Users\twige\source\repos\Dzien01\Zmienne\obj\Debug\Zmienne.csprojAssemblyReference.cache
+C:\Users\twige\source\repos\Dzien01\Zmienne\obj\Debug\Zmienne.csproj.CoreCompileInputs.cache
+C:\Users\twige\source\repos\Dzien01\Zmienne\obj\Debug\Zmienne.exe
+C:\Users\twige\source\repos\Dzien01\Zmienne\obj\Debug\Zmienne.pdb

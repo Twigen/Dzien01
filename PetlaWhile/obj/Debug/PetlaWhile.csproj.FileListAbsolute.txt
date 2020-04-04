@@ -1,0 +1,7 @@
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\bin\Debug\PetlaWhile.exe.config
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\bin\Debug\PetlaWhile.exe
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\bin\Debug\PetlaWhile.pdb
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\obj\Debug\PetlaWhile.csprojAssemblyReference.cache
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\obj\Debug\PetlaWhile.csproj.CoreCompileInputs.cache
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\obj\Debug\PetlaWhile.exe
+C:\Users\twige\source\repos\Dzien01\PetlaWhile\obj\Debug\PetlaWhile.pdb

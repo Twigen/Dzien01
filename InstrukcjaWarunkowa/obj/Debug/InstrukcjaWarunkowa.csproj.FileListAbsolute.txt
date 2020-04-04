@@ -1,0 +1,7 @@
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\bin\Debug\InstrukcjaWarunkowa.exe.config
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\bin\Debug\InstrukcjaWarunkowa.exe
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\bin\Debug\InstrukcjaWarunkowa.pdb
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\obj\Debug\InstrukcjaWarunkowa.csprojAssemblyReference.cache
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\obj\Debug\InstrukcjaWarunkowa.csproj.CoreCompileInputs.cache
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\obj\Debug\InstrukcjaWarunkowa.exe
+C:\Users\twige\source\repos\Dzien01\InstrukcjaWarunkowa\obj\Debug\InstrukcjaWarunkowa.pdb

@@ -1,0 +1,7 @@
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\bin\Debug\KonwersjaTypow.exe.config
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\bin\Debug\KonwersjaTypow.exe
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\bin\Debug\KonwersjaTypow.pdb
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\obj\Debug\KonwersjaTypow.csprojAssemblyReference.cache
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\obj\Debug\KonwersjaTypow.csproj.CoreCompileInputs.cache
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\obj\Debug\KonwersjaTypow.exe
+C:\Users\twige\source\repos\Dzien01\KonwersjaTypow\obj\Debug\KonwersjaTypow.pdb
